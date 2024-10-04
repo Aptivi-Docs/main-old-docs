@@ -9,6 +9,11 @@ Deprecated manuals are documentations that are written for a specific version of
 
 You can check out the following manuals for these projects (and their first version release dates in GitHub) below:
 
+* Nitrocid KS
+  * [0.1.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/) (February 22nd, 2023)
+  * [0.1.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RoaqpM3GSf9vXxRAagbV/) (August 10th, 2023)
+  * [0.1.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/kfeoFVXA0LPgBamKZDG4/) (December 28th, 2023)
+  * [0.1.0 RC](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/3mRuFh68DHtbpLXUGDzq/) (February 1st, 2024)
 * Terminaux
   * [1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/IcD1aLc5jxHMwvslhJIP/) (August 6th, 2023)
   * [2.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BAbXedIZJ6HPa9EGmSYt/) (December 13th, 2023)

@@ -5,6 +5,10 @@ description: You found a list of deprecated manuals!
 
 # Deprecated Manuals
 
+{% hint style="danger" %}
+**We apologize for your inconvenience, but it seems that uncontrollable internet connectivity and electricity issues in our environment is causing the release to be delayed, alongside other factors. We are extremely sorry for the delayed release of Textify 2.4.0, and will conduct an internal investigation. Meanwhile, we'll stop further development of all projects until this investigation is complete and our environment is back to usable states.**
+{% endhint %}
+
 Deprecated manuals are documentations that are written for a specific version of a library or an application that is no longer supported. This is intended to make such manuals accessible to users for historical and for archival purposes.
 
 You can check out the following manuals for these projects (and their first version release dates in GitHub) below:

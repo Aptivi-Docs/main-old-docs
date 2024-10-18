@@ -5,11 +5,7 @@ description: You found a list of deprecated manuals!
 
 # Deprecated Manuals
 
-{% hint style="success" %}
-**We have managed to get back control of both electricity and internet connectivity. This means that we have sorted out the environmental issues. We are more than thrilled to return to development as of this writing.**
-
-**Again, we apologize for our bad handling of the Textify 2.4.0 release.**
-{% endhint %}
+<figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
 Deprecated manuals are documentations that are written for a specific version of a library or an application that is no longer supported. This is intended to make such manuals accessible to users for historical and for archival purposes.
 

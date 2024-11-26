@@ -45,3 +45,4 @@ You can check out the following manuals for these projects (and their first vers
 * [Figletize](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/ImPNBShiE2aqA6pDyeiZ/) (September 11th, 2023)
 * [GRILO](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/BLR1Eu9QDGfIEp3maSdB/) (August 8th, 2022)
 * [NativeLand](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/fYMTi8Sn3P5AV5dsvntW/) (January 17th, 2024)
+* [CliTester](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/QTj9EuIV9YhegMLkJiQR/) (September 23rd, 2024)
